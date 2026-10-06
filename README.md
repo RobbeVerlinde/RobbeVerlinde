@@ -13,7 +13,7 @@ Using the Olist Brazilian E-Commerce Public Dataset
 ## Projects
 | Project | What it shows/will show | Tools |
 |---|---|---|
-| [olist-case-study](https://github.com/RobbeVerlinde/olist-case-study) | Order funnel, repeat customers, late deliveries vs. reviews | SQL, Power BI |
+| [olist-case-study](https://github.com/RobbeVerlinde/olist-case-study) | Late deliveries vs. review scores, by state and product category | SQL, Power BI |
 | *More coming soon* | | |
 
 ## Skills
