@@ -7,7 +7,7 @@ I like turning messy data into clear, well designed answers.
 ## What I'm working on
 - Learning SQL and Power BI
 - **Next up:** Case study 1: **Where do customers drop off?**, using the Olist
-  Brazilian e-commerce dataset
+  Brazilian E-Commerce Public Dataset
 - **Next up:** Python (pandas) and a case study using Belgian open data
 
 ## Upcoming Projects
