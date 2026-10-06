@@ -11,7 +11,7 @@ I like turning messy data into clear, well designed answers.
 - **Next up:** Python (pandas) and a case study using Belgian open data
 
 ## Projects
-| Project | What it shows | Tools |
+| Project | What it shows/will show | Tools |
 |---|---|---|
 | [olist-case-study](https://github.com/RobbeVerlinde/olist-case-study) | Order funnel, repeat customers, late deliveries vs. reviews | SQL, Power BI |
 | *More coming soon* | | |
