@@ -13,7 +13,7 @@ I like turning messy data into clear, well designed answers.
 ## Upcoming Projects
 | Project | What it shows | Tools |
 |---|---|---|
-| [Olist customer drop-off](link-to-repo) | Order funnel, repeat customers, late deliveries vs. reviews | SQL, Power BI |
+| [olist-case-study](link-to-repo) | Order funnel, repeat customers, late deliveries vs. reviews | SQL, Power BI |
 | *More coming soon* | | |
 
 ## Skills
