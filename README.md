@@ -10,7 +10,7 @@ I like turning messy data into clear, well designed answers.
   Brazilian E-Commerce Public Dataset
 - **Next up:** Python (pandas) and a case study using Belgian open data
 
-## Upcoming Projects
+## Projects
 | Project | What it shows | Tools |
 |---|---|---|
 | [olist-case-study](https://github.com/RobbeVerlinde/olist-case-study) | Order funnel, repeat customers, late deliveries vs. reviews | SQL, Power BI |
