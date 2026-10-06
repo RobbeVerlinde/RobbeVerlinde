@@ -13,7 +13,7 @@ I like turning messy data into clear, well designed answers.
 ## Upcoming Projects
 | Project | What it shows | Tools |
 |---|---|---|
-| [olist-case-study]([link-to-repo](https://github.com/RobbeVerlinde/olist-case-study)) | Order funnel, repeat customers, late deliveries vs. reviews | SQL, Power BI |
+| [olist-case-study](https://github.com/RobbeVerlinde/olist-case-study) | Order funnel, repeat customers, late deliveries vs. reviews | SQL, Power BI |
 | *More coming soon* | | |
 
 ## Skills
