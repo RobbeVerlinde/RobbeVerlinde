@@ -22,7 +22,7 @@ I like turning messy data into clear, well designed answers.
 
 ## Get in touch
 - LinkedIn: [click here](https://www.linkedin.com/in/robbeverlinde)
-- Email: [robbeverlinde@mail.com](robbeverlinde@mail.com)
+- Email: [robbeverlinde.data@gmail.com](robbeverlinde.data@gmail.com)
 
 
 <!--
