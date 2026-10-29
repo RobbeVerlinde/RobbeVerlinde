@@ -8,7 +8,7 @@ I aspire to turn messy data into clear, well designed answers.
 - Learning SQL and Power BI
 - **Next up:** Case study 1: **How much does late delivery hurt review scores, and does it vary by state or product category?**  
 -> Using the Olist Brazilian E-Commerce Public Dataset
-- **Next up:** Case study 2
+- **Next up:** Case study 2, more skills
 
 ## Projects
 | Project | What it shows/will show | Tools |
