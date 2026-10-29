@@ -2,7 +2,7 @@
 
 Data analyst in training based in Bruges, Belgium. I come from a crossmedia
 design background and I'm now studying Business & Data Analysis at UCLL.
-I like turning messy data into clear, well designed answers.
+I aspire to turn messy data into clear, well designed answers.
 
 ## What I'm working on
 - Learning SQL and Power BI
